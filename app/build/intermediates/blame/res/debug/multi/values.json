@@ -1,0 +1,1313 @@
+[
+    {
+        "outputFile": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 19,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 231,
+                    "endLine": 13,
+                    "endColumn": 20,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endLine": 19,
+                    "endColumn": 33,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endLine": 26,
+                    "endColumn": 32,
+                    "endOffset": 865
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 870,
+                    "endLine": 33,
+                    "endColumn": 22,
+                    "endOffset": 1050
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1055,
+                    "endLine": 40,
+                    "endColumn": 15,
+                    "endOffset": 1216
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1221,
+                    "endLine": 48,
+                    "endColumn": 16,
+                    "endOffset": 1434
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 1439,
+                    "endLine": 55,
+                    "endColumn": 16,
+                    "endOffset": 1595
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1600,
+                    "endLine": 60,
+                    "endColumn": 16,
+                    "endOffset": 1729
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 1734,
+                    "endLine": 65,
+                    "endColumn": 16,
+                    "endOffset": 1870
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 1875,
+                    "endLine": 72,
+                    "endColumn": 15,
+                    "endOffset": 1995
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 2000,
+                    "endLine": 80,
+                    "endColumn": 15,
+                    "endOffset": 2297
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 2302,
+                    "endLine": 111,
+                    "endColumn": 62,
+                    "endOffset": 3766
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 3771,
+                    "endLine": 116,
+                    "endColumn": 16,
+                    "endOffset": 3891
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 3896,
+                    "endLine": 138,
+                    "endColumn": 29,
+                    "endOffset": 4728
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 4733,
+                    "endLine": 144,
+                    "endColumn": 16,
+                    "endOffset": 4903
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 145,
+                    "startColumn": 4,
+                    "startOffset": 4908,
+                    "endLine": 150,
+                    "endColumn": 16,
+                    "endOffset": 5101
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 5106,
+                    "endLine": 156,
+                    "endColumn": 19,
+                    "endOffset": 5271
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 157,
+                    "startColumn": 4,
+                    "startOffset": 5276,
+                    "endLine": 162,
+                    "endColumn": 15,
+                    "endOffset": 5423
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 5428,
+                    "endLine": 168,
+                    "endColumn": 16,
+                    "endOffset": 5611
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 5616,
+                    "endColumn": 57,
+                    "endOffset": 5669
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 5674,
+                    "endColumn": 55,
+                    "endOffset": 5725
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 171,
+                    "startColumn": 4,
+                    "startOffset": 5730,
+                    "endColumn": 69,
+                    "endOffset": 5795
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 172,
+                    "startColumn": 4,
+                    "startOffset": 5800,
+                    "endColumn": 67,
+                    "endOffset": 5863
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 5868,
+                    "endColumn": 37,
+                    "endOffset": 5901
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 5906,
+                    "endColumn": 52,
+                    "endOffset": 5954
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 5959,
+                    "endColumn": 55,
+                    "endOffset": 6010
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 6015,
+                    "endColumn": 35,
+                    "endOffset": 6046
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 6051,
+                    "endColumn": 50,
+                    "endOffset": 6097
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 6102,
+                    "endColumn": 42,
+                    "endOffset": 6140
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 6145,
+                    "endColumn": 47,
+                    "endOffset": 6188
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 6193,
+                    "endColumn": 86,
+                    "endOffset": 6275
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 6280,
+                    "endColumn": 41,
+                    "endOffset": 6317
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 6322,
+                    "endColumn": 37,
+                    "endOffset": 6355
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 6360,
+                    "endColumn": 39,
+                    "endOffset": 6395
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 6400,
+                    "endColumn": 55,
+                    "endOffset": 6451
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 6456,
+                    "endColumn": 55,
+                    "endOffset": 6507
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 6512,
+                    "endColumn": 71,
+                    "endOffset": 6579
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 6584,
+                    "endColumn": 83,
+                    "endOffset": 6663
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 6668,
+                    "endColumn": 59,
+                    "endOffset": 6723
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 6728,
+                    "endColumn": 61,
+                    "endOffset": 6785
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 6790,
+                    "endColumn": 46,
+                    "endOffset": 6832
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 6837,
+                    "endColumn": 39,
+                    "endOffset": 6872
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 6877,
+                    "endColumn": 68,
+                    "endOffset": 6941
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 6946,
+                    "endColumn": 43,
+                    "endOffset": 6985
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 194,
+                    "startColumn": 4,
+                    "startOffset": 6990,
+                    "endColumn": 45,
+                    "endOffset": 7031
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 195,
+                    "startColumn": 4,
+                    "startOffset": 7036,
+                    "endColumn": 68,
+                    "endOffset": 7100
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 7105,
+                    "endColumn": 64,
+                    "endOffset": 7165
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 7170,
+                    "endColumn": 62,
+                    "endOffset": 7228
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 7233,
+                    "endColumn": 53,
+                    "endOffset": 7282
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 7287,
+                    "endColumn": 49,
+                    "endOffset": 7332
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 7337,
+                    "endColumn": 69,
+                    "endOffset": 7402
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 7407,
+                    "endColumn": 57,
+                    "endOffset": 7460
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 7465,
+                    "endColumn": 56,
+                    "endOffset": 7517
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 7522,
+                    "endColumn": 58,
+                    "endOffset": 7576
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 7581,
+                    "endColumn": 43,
+                    "endOffset": 7620
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 7625,
+                    "endColumn": 37,
+                    "endOffset": 7658
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 7663,
+                    "endColumn": 53,
+                    "endOffset": 7712
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 7717,
+                    "endColumn": 46,
+                    "endOffset": 7759
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 7764,
+                    "endColumn": 49,
+                    "endOffset": 7809
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 7814,
+                    "endColumn": 46,
+                    "endOffset": 7856
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 7861,
+                    "endColumn": 39,
+                    "endOffset": 7896
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 7901,
+                    "endColumn": 45,
+                    "endOffset": 7942
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 7947,
+                    "endColumn": 46,
+                    "endOffset": 7989
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 7994,
+                    "endColumn": 37,
+                    "endOffset": 8027
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 8032,
+                    "endColumn": 33,
+                    "endOffset": 8061
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 8066,
+                    "endColumn": 53,
+                    "endOffset": 8115
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 8120,
+                    "endColumn": 43,
+                    "endOffset": 8159
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 8164,
+                    "endColumn": 44,
+                    "endOffset": 8204
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 8209,
+                    "endColumn": 42,
+                    "endOffset": 8247
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 8252,
+                    "endColumn": 43,
+                    "endOffset": 8291
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 8296,
+                    "endColumn": 47,
+                    "endOffset": 8339
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 8344,
+                    "endColumn": 49,
+                    "endOffset": 8389
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 8394,
+                    "endColumn": 52,
+                    "endOffset": 8442
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 8447,
+                    "endColumn": 71,
+                    "endOffset": 8514
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 8519,
+                    "endColumn": 54,
+                    "endOffset": 8569
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 8574,
+                    "endColumn": 58,
+                    "endOffset": 8628
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 8633,
+                    "endColumn": 56,
+                    "endOffset": 8685
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 8690,
+                    "endColumn": 52,
+                    "endOffset": 8738
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 8743,
+                    "endColumn": 41,
+                    "endOffset": 8780
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 8785,
+                    "endColumn": 46,
+                    "endOffset": 8827
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 8832,
+                    "endColumn": 41,
+                    "endOffset": 8869
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 8874,
+                    "endColumn": 41,
+                    "endOffset": 8911
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 8916,
+                    "endColumn": 85,
+                    "endOffset": 8997
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 9002,
+                    "endColumn": 39,
+                    "endOffset": 9037
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 9042,
+                    "endColumn": 77,
+                    "endOffset": 9115
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 9120,
+                    "endColumn": 41,
+                    "endOffset": 9157
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 9162,
+                    "endColumn": 56,
+                    "endOffset": 9214
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 9219,
+                    "endColumn": 43,
+                    "endOffset": 9258
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 9263,
+                    "endColumn": 35,
+                    "endOffset": 9294
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 9299,
+                    "endLine": 244,
+                    "endColumn": 12,
+                    "endOffset": 9722
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\styles_home.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 9727,
+                    "endLine": 248,
+                    "endColumn": 12,
+                    "endOffset": 9987
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\styles_home.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 9992,
+                    "endLine": 251,
+                    "endColumn": 12,
+                    "endOffset": 10181
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\styles_home.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 10186,
+                    "endLine": 254,
+                    "endColumn": 12,
+                    "endOffset": 10381
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\styles_home.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 10386,
+                    "endLine": 261,
+                    "endColumn": 12,
+                    "endOffset": 10672
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 10677,
+                    "endLine": 266,
+                    "endColumn": 12,
+                    "endOffset": 10903
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 10908,
+                    "endLine": 269,
+                    "endColumn": 12,
+                    "endOffset": 11103
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\styles_home.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 11108,
+                    "endLine": 274,
+                    "endColumn": 12,
+                    "endOffset": 11463
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\styles_home.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 11468,
+                    "endLine": 279,
+                    "endColumn": 16,
+                    "endOffset": 11713
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 8,
+                        "startOffset": 771,
+                        "endLine": 27,
+                        "endColumn": 16,
+                        "endOffset": 1020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 11718,
+                    "endLine": 282,
+                    "endColumn": 12,
+                    "endOffset": 11906
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\styles_home.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 11911,
+                    "endLine": 285,
+                    "endColumn": 12,
+                    "endOffset": 12108
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\styles_home.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 12113,
+                    "endLine": 298,
+                    "endColumn": 12,
+                    "endOffset": 13004
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\styles_home.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 13009,
+                    "endLine": 302,
+                    "endColumn": 12,
+                    "endOffset": 13249
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\styles_home.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 13254,
+                    "endLine": 305,
+                    "endColumn": 12,
+                    "endOffset": 13435
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1211
+                    }
+                }
+            }
+        ]
+    }
+]

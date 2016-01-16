@@ -1,0 +1,87 @@
+[
+    {
+        "outputFile": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values-v11\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 209,
+                        "endColumn": 44,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 48,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values-v11\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 45,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values-v11\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 195,
+                    "endColumn": 46,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values-v11\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 50,
+                    "endOffset": 288
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values-v11\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 293,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 425
+                },
+                "from": {
+                    "file": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\values-v11\\styles.xml"
+                }
+            }
+        ]
+    }
+]

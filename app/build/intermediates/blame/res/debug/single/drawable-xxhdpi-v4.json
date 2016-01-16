@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\progress_primary_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\progress_primary_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tab_selected_focused_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_focused_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cab_background_bottom_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\cab_background_bottom_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\progress_secondary_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\progress_secondary_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_cab_done_focused_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_focused_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\spinner_ab_disabled_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_disabled_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ab_texture_tile_home.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\ab_texture_tile_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\list_pressed_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\list_pressed_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tab_unselected_focused_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_focused_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\spinner_ab_pressed_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_pressed_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_cab_done_pressed_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_pressed_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\cab_background_top_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\cab_background_top_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\menu_dropdown_panel_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\menu_dropdown_panel_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\drawer_shadow.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tab_unselected_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\spinner_ab_focused_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_focused_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ab_solid_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\ab_solid_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tab_selected_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tab_selected_pressed_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\tab_selected_pressed_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\tab_unselected_pressed_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\tab_unselected_pressed_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ab_bottom_solid_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\ab_bottom_solid_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\spinner_ab_default_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\spinner_ab_default_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\progress_bg_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\progress_bg_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_drawer.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\ic_drawer.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ab_transparent_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\ab_transparent_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\list_focused_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\list_focused_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ab_stacked_solid_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\ab_stacked_solid_home.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\btn_cab_done_default_home.9.png",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\drawable-xxhdpi\\btn_cab_done_default_home.9.png"
+    }
+]

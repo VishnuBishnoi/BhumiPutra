@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\vendor_update_profile_fragments.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\vendor_update_profile_fragments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\farmer_buy_fragment.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\farmer_buy_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\register2.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\register2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\register.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\register.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\vendoreregister.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\vendoreregister.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\list_view_item_row.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\list_view_item_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\tools_manpower_activity.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\tools_manpower_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\buyer.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\buyer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\vendorsellerassets.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\vendorsellerassets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\user_selector.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\user_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\toolhome.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\toolhome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\farmer_hire_fragment.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\farmer_hire_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\farmer_login.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\farmer_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\tool_manpower.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\tool_manpower.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\farmer_logout_fragment.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\farmer_logout_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\tools_manpower.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\tools_manpower.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\farmer_update_profile_fragment.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\farmer_update_profile_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\tools_and_manpower_logout_fragment.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\tools_and_manpower_logout_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\tools_assets.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\tools_assets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\toolregister.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\toolregister.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\farmer_profile_fragment.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\farmer_profile_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\vendoraddressregister.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\vendoraddressregister.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\vendor_update_data_fragment.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\vendor_update_data_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\vendor_seller_activity.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\vendor_seller_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\tools_and_manpower_login.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\tools_and_manpower_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\vendoreassets.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\vendoreassets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\tools_and_manpower_home.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\tools_and_manpower_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\vendore_assets_activity.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\vendore_assets_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\tools_manpower_fragment.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\tools_manpower_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\tools_assets_activity.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\tools_assets_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\tool_update_profile_fragment.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\tool_update_profile_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\drawer_list_item.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\tooladdressregister.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\tooladdressregister.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\vendormain.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\vendormain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\farmer_sale_fragment.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\farmer_sale_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\assets.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\assets.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\build\\intermediates\\res\\merged\\release\\layout\\tools_and_manpower_fragment.xml",
+        "source": "C:\\Users\\Vishnu\\Desktop\\1-10\\BhumiPutra\\app\\src\\main\\res\\layout\\tools_and_manpower_fragment.xml"
+    }
+]
